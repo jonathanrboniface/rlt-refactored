@@ -1,0 +1,7 @@
+*.idea/*
+./accounts.json
+.notes.txt
+terraform/.terraform*
+terraform/credentials.json
+terraform/terraform.tfvars
+terraform/terraform.tfstate*
